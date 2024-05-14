@@ -1,0 +1,43 @@
+.navbar{
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+    padding: 1rem 4rem;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar--logo{
+    padding: 0px 10px;
+}
+
+.navbar--title{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.navbar--links a{
+    color: white;
+    text-decoration: none;
+}
+
+.navbar--links{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nb-link{
+    padding: 0 3rem;
+}
+
+.nb-link img{
+    padding-left: 2px;
+}
+
+.navbar--buton button{
+    font-size: 14px;
+    padding: 5px;
+    margin: 5px;
+}

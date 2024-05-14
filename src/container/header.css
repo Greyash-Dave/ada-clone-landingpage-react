@@ -1,0 +1,47 @@
+.header{
+    background-color: #1B1E23;
+    background-image: url('../images/header-bg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.header--content{
+    color: white;
+    text-align: center;
+    width: 800px;
+
+    padding: 3rem;
+    padding-left: 24%;
+}
+
+.header--content h1{
+    font-family: Poppins;
+    font-size: 56px;
+    padding: 10px;
+    padding-bottom: 2rem;
+}
+
+.header--content h3{
+    font-family: Inter;
+    font-size: 20px;
+}
+
+.header--buttons{
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header--buttons button{
+    padding: 5px;
+    margin: 10px;
+}
+
+.header--image{
+    padding: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
