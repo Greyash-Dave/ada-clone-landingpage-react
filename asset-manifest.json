@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ada-clone-landingpage-react/static/css/main.b4bed6c6.css",
-    "main.js": "/ada-clone-landingpage-react/static/js/main.3eea7faf.js",
+    "main.css": "/ada-clone-landingpage-react/static/css/main.c712226b.css",
+    "main.js": "/ada-clone-landingpage-react/static/js/main.9a2bcc4a.js",
     "static/js/453.3669db72.chunk.js": "/ada-clone-landingpage-react/static/js/453.3669db72.chunk.js",
     "static/media/2.png": "/ada-clone-landingpage-react/static/media/2.937b03f004663d14037f.png",
     "static/media/1.png": "/ada-clone-landingpage-react/static/media/1.d1f409fa1c18fbcf35b1.png",
@@ -9,12 +9,12 @@
     "static/media/4.png": "/ada-clone-landingpage-react/static/media/4.23bc9cdd3422710ee4f8.png",
     "static/media/header-bg.png": "/ada-clone-landingpage-react/static/media/header-bg.9b076479f28168283fa0.png",
     "index.html": "/ada-clone-landingpage-react/index.html",
-    "main.b4bed6c6.css.map": "/ada-clone-landingpage-react/static/css/main.b4bed6c6.css.map",
-    "main.3eea7faf.js.map": "/ada-clone-landingpage-react/static/js/main.3eea7faf.js.map",
+    "main.c712226b.css.map": "/ada-clone-landingpage-react/static/css/main.c712226b.css.map",
+    "main.9a2bcc4a.js.map": "/ada-clone-landingpage-react/static/js/main.9a2bcc4a.js.map",
     "453.3669db72.chunk.js.map": "/ada-clone-landingpage-react/static/js/453.3669db72.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4bed6c6.css",
-    "static/js/main.3eea7faf.js"
+    "static/css/main.c712226b.css",
+    "static/js/main.9a2bcc4a.js"
   ]
 }
